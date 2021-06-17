@@ -62,6 +62,7 @@ console.log(n1 / n2)
 function draw() {
  fill ("black")
   background(220);
+  text(awnser,200,300)
 text (" number 1",20,10)
 text (" number 2 ",580,10)
 n1 = parseInt(num1.value())
